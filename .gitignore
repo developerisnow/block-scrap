@@ -1,0 +1,6 @@
+*.log
+result0.csv
+result.csv
+private_data/*
+bwScrapper*.py
+!bwScrapper.py
